@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashp10
-- 👀 I’m interested in Coding Python, Java and SQL
+- 👀 I’m interested in Coding Python and SQL
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Coding 
 - 📫 How to reach me akashprakashpawar54@gmail.com
